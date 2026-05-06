@@ -12,6 +12,16 @@ public class memohaza {
         System.out.println("웅525엉");
         System.out.println("12313웅엉");
         System.out.println("웅엉3123123");
+        System.out.println("웅엉");
+        System.out.println("웅2231312엉");
+        System.out.println("웅312312344엉");
+        System.out.println("웅525엉");
+        System.out.println("12313웅엉");
+        System.out.println("웅엉33123123");
+        System.out.println("22222웅엉33123123");
+        System.out.println("웅33333엉33123123");
+        System.out.println("웅4444엉33123123");
+        System.out.println("55555웅엉33123123");
     }
 
 
